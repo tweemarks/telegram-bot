@@ -1,0 +1,6 @@
+.env
+database
+node_modules
+old_files
+test.js
+confidential_files
